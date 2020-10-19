@@ -1,0 +1,1905 @@
+{
+    "version": "1.0",
+    "encoding": "UTF-8",
+    "feed": {
+        "xmlns": "http://www.w3.org/2005/Atom",
+        "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+        "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended",
+        "id": {
+            "$t": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values"
+        },
+        "updated": {
+            "$t": "2020-10-19T07:37:10.504Z"
+        },
+        "category": [
+            {
+                "scheme": "http://schemas.google.com/spreadsheets/2006",
+                "term": "http://schemas.google.com/spreadsheets/2006#list"
+            }
+        ],
+        "title": {
+            "type": "text",
+            "$t": "Formulierreacties 1"
+        },
+        "link": [
+            {
+                "rel": "alternate",
+                "type": "application/atom+xml",
+                "href": "https://docs.google.com/spreadsheets/u/0/d/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/pubhtml"
+            },
+            {
+                "rel": "http://schemas.google.com/g/2005#feed",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values"
+            },
+            {
+                "rel": "http://schemas.google.com/g/2005#post",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values"
+            },
+            {
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values?alt\u003djson"
+            }
+        ],
+        "author": [
+            {
+                "name": {
+                    "$t": "yori.verbist12"
+                },
+                "email": {
+                    "$t": "yori.verbist12@gmail.com"
+                }
+            }
+        ],
+        "openSearch$totalResults": {
+            "$t": "20"
+        },
+        "openSearch$startIndex": {
+            "$t": "1"
+        },
+        "entry": [
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2020-10-19T07:37:10.504Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "17-10-2020 17:39:09"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "rmath: Don't know, rlearnmath: Don't know, rprogramming: 2, rlearnprogramming: Don't know, raww: 1, rnatureisfuckinglit: Don't know, rearthporn: 1, raskreddit: 3, rlifeprotips: 2, rprogrammerhumor: 2, rtinder: Don't know, rwallstreetbets: 1, rwholesomememes: 2, rmeirl: Don't know, ridiotsincars: Don't know, rcozyplaces: Don't know, roddlysatisfying: Don't know, rexplainlikeimfive: 3, rdankmemes: 3, rtodayilearned: 3"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/cokwr"
+                    }
+                ],
+                "gsx$tijdstempel": {
+                    "$t": "17-10-2020 17:39:09"
+                },
+                "gsx$rmath": {
+                    "$t": "Don't know"
+                },
+                "gsx$rlearnmath": {
+                    "$t": "Don't know"
+                },
+                "gsx$rprogramming": {
+                    "$t": "2"
+                },
+                "gsx$rlearnprogramming": {
+                    "$t": "Don't know"
+                },
+                "gsx$raww": {
+                    "$t": "1"
+                },
+                "gsx$rnatureisfuckinglit": {
+                    "$t": "Don't know"
+                },
+                "gsx$rearthporn": {
+                    "$t": "1"
+                },
+                "gsx$raskreddit": {
+                    "$t": "3"
+                },
+                "gsx$rlifeprotips": {
+                    "$t": "2"
+                },
+                "gsx$rprogrammerhumor": {
+                    "$t": "2"
+                },
+                "gsx$rtinder": {
+                    "$t": "Don't know"
+                },
+                "gsx$rwallstreetbets": {
+                    "$t": "1"
+                },
+                "gsx$rwholesomememes": {
+                    "$t": "2"
+                },
+                "gsx$rmeirl": {
+                    "$t": "Don't know"
+                },
+                "gsx$ridiotsincars": {
+                    "$t": "Don't know"
+                },
+                "gsx$rcozyplaces": {
+                    "$t": "Don't know"
+                },
+                "gsx$roddlysatisfying": {
+                    "$t": "Don't know"
+                },
+                "gsx$rexplainlikeimfive": {
+                    "$t": "3"
+                },
+                "gsx$rdankmemes": {
+                    "$t": "3"
+                },
+                "gsx$rtodayilearned": {
+                    "$t": "3"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/cpzh4"
+                },
+                "updated": {
+                    "$t": "2020-10-19T07:37:10.504Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "17-10-2020 17:39:45"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "rmath: Don't know, rlearnmath: Don't know, rprogramming: 2, rlearnprogramming: Don't know, raww: 2, rnatureisfuckinglit: 3, rearthporn: 1, raskreddit: 1, rlifeprotips: 1, rprogrammerhumor: 2, rtinder: 1, rwallstreetbets: 2, rwholesomememes: 1, rmeirl: 1, ridiotsincars: 3, rcozyplaces: Don't know, roddlysatisfying: 2, rexplainlikeimfive: 2, rdankmemes: 1, rtodayilearned: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/cpzh4"
+                    }
+                ],
+                "gsx$tijdstempel": {
+                    "$t": "17-10-2020 17:39:45"
+                },
+                "gsx$rmath": {
+                    "$t": "Don't know"
+                },
+                "gsx$rlearnmath": {
+                    "$t": "Don't know"
+                },
+                "gsx$rprogramming": {
+                    "$t": "2"
+                },
+                "gsx$rlearnprogramming": {
+                    "$t": "Don't know"
+                },
+                "gsx$raww": {
+                    "$t": "2"
+                },
+                "gsx$rnatureisfuckinglit": {
+                    "$t": "3"
+                },
+                "gsx$rearthporn": {
+                    "$t": "1"
+                },
+                "gsx$raskreddit": {
+                    "$t": "1"
+                },
+                "gsx$rlifeprotips": {
+                    "$t": "1"
+                },
+                "gsx$rprogrammerhumor": {
+                    "$t": "2"
+                },
+                "gsx$rtinder": {
+                    "$t": "1"
+                },
+                "gsx$rwallstreetbets": {
+                    "$t": "2"
+                },
+                "gsx$rwholesomememes": {
+                    "$t": "1"
+                },
+                "gsx$rmeirl": {
+                    "$t": "1"
+                },
+                "gsx$ridiotsincars": {
+                    "$t": "3"
+                },
+                "gsx$rcozyplaces": {
+                    "$t": "Don't know"
+                },
+                "gsx$roddlysatisfying": {
+                    "$t": "2"
+                },
+                "gsx$rexplainlikeimfive": {
+                    "$t": "2"
+                },
+                "gsx$rdankmemes": {
+                    "$t": "1"
+                },
+                "gsx$rtodayilearned": {
+                    "$t": "1"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/cre1l"
+                },
+                "updated": {
+                    "$t": "2020-10-19T07:37:10.504Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "17-10-2020 17:40:48"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "rmath: Don't know, rlearnmath: 2, rprogramming: Don't know, rlearnprogramming: Don't know, raww: 3, rnatureisfuckinglit: 3, rearthporn: 3, raskreddit: 1, rlifeprotips: 1, rprogrammerhumor: Don't know, rtinder: 3, rwallstreetbets: Don't know, rwholesomememes: 3, rmeirl: 3, ridiotsincars: 3, rcozyplaces: Don't know, roddlysatisfying: 3, rexplainlikeimfive: 3, rdankmemes: 3, rtodayilearned: 3"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/cre1l"
+                    }
+                ],
+                "gsx$tijdstempel": {
+                    "$t": "17-10-2020 17:40:48"
+                },
+                "gsx$rmath": {
+                    "$t": "Don't know"
+                },
+                "gsx$rlearnmath": {
+                    "$t": "2"
+                },
+                "gsx$rprogramming": {
+                    "$t": "Don't know"
+                },
+                "gsx$rlearnprogramming": {
+                    "$t": "Don't know"
+                },
+                "gsx$raww": {
+                    "$t": "3"
+                },
+                "gsx$rnatureisfuckinglit": {
+                    "$t": "3"
+                },
+                "gsx$rearthporn": {
+                    "$t": "3"
+                },
+                "gsx$raskreddit": {
+                    "$t": "1"
+                },
+                "gsx$rlifeprotips": {
+                    "$t": "1"
+                },
+                "gsx$rprogrammerhumor": {
+                    "$t": "Don't know"
+                },
+                "gsx$rtinder": {
+                    "$t": "3"
+                },
+                "gsx$rwallstreetbets": {
+                    "$t": "Don't know"
+                },
+                "gsx$rwholesomememes": {
+                    "$t": "3"
+                },
+                "gsx$rmeirl": {
+                    "$t": "3"
+                },
+                "gsx$ridiotsincars": {
+                    "$t": "3"
+                },
+                "gsx$rcozyplaces": {
+                    "$t": "Don't know"
+                },
+                "gsx$roddlysatisfying": {
+                    "$t": "3"
+                },
+                "gsx$rexplainlikeimfive": {
+                    "$t": "3"
+                },
+                "gsx$rdankmemes": {
+                    "$t": "3"
+                },
+                "gsx$rtodayilearned": {
+                    "$t": "3"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/chk2m"
+                },
+                "updated": {
+                    "$t": "2020-10-19T07:37:10.504Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "17-10-2020 17:46:00"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "rmath: 1, rlearnmath: 1, rprogramming: 1, rlearnprogramming: 1, raww: 3, rnatureisfuckinglit: 3, rearthporn: 3, raskreddit: 1, rlifeprotips: 2, rprogrammerhumor: 2, rtinder: 3, rwallstreetbets: Don't know, rwholesomememes: 3, rmeirl: 2, ridiotsincars: 3, rcozyplaces: Don't know, roddlysatisfying: 3, rexplainlikeimfive: 3, rdankmemes: 3, rtodayilearned: 3"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/chk2m"
+                    }
+                ],
+                "gsx$tijdstempel": {
+                    "$t": "17-10-2020 17:46:00"
+                },
+                "gsx$rmath": {
+                    "$t": "1"
+                },
+                "gsx$rlearnmath": {
+                    "$t": "1"
+                },
+                "gsx$rprogramming": {
+                    "$t": "1"
+                },
+                "gsx$rlearnprogramming": {
+                    "$t": "1"
+                },
+                "gsx$raww": {
+                    "$t": "3"
+                },
+                "gsx$rnatureisfuckinglit": {
+                    "$t": "3"
+                },
+                "gsx$rearthporn": {
+                    "$t": "3"
+                },
+                "gsx$raskreddit": {
+                    "$t": "1"
+                },
+                "gsx$rlifeprotips": {
+                    "$t": "2"
+                },
+                "gsx$rprogrammerhumor": {
+                    "$t": "2"
+                },
+                "gsx$rtinder": {
+                    "$t": "3"
+                },
+                "gsx$rwallstreetbets": {
+                    "$t": "Don't know"
+                },
+                "gsx$rwholesomememes": {
+                    "$t": "3"
+                },
+                "gsx$rmeirl": {
+                    "$t": "2"
+                },
+                "gsx$ridiotsincars": {
+                    "$t": "3"
+                },
+                "gsx$rcozyplaces": {
+                    "$t": "Don't know"
+                },
+                "gsx$roddlysatisfying": {
+                    "$t": "3"
+                },
+                "gsx$rexplainlikeimfive": {
+                    "$t": "3"
+                },
+                "gsx$rdankmemes": {
+                    "$t": "3"
+                },
+                "gsx$rtodayilearned": {
+                    "$t": "3"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/ciyn3"
+                },
+                "updated": {
+                    "$t": "2020-10-19T07:37:10.504Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "17-10-2020 17:51:51"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "rmath: 1, rlearnmath: Don't know, rprogramming: Don't know, rlearnprogramming: Don't know, raww: 3, rnatureisfuckinglit: 2, rearthporn: 2, raskreddit: 2, rlifeprotips: 1, rprogrammerhumor: Don't know, rtinder: 2, rwallstreetbets: Don't know, rwholesomememes: 1, rmeirl: 1, ridiotsincars: 2, rcozyplaces: 3, roddlysatisfying: 2, rexplainlikeimfive: 3, rdankmemes: 3, rtodayilearned: 3"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/ciyn3"
+                    }
+                ],
+                "gsx$tijdstempel": {
+                    "$t": "17-10-2020 17:51:51"
+                },
+                "gsx$rmath": {
+                    "$t": "1"
+                },
+                "gsx$rlearnmath": {
+                    "$t": "Don't know"
+                },
+                "gsx$rprogramming": {
+                    "$t": "Don't know"
+                },
+                "gsx$rlearnprogramming": {
+                    "$t": "Don't know"
+                },
+                "gsx$raww": {
+                    "$t": "3"
+                },
+                "gsx$rnatureisfuckinglit": {
+                    "$t": "2"
+                },
+                "gsx$rearthporn": {
+                    "$t": "2"
+                },
+                "gsx$raskreddit": {
+                    "$t": "2"
+                },
+                "gsx$rlifeprotips": {
+                    "$t": "1"
+                },
+                "gsx$rprogrammerhumor": {
+                    "$t": "Don't know"
+                },
+                "gsx$rtinder": {
+                    "$t": "2"
+                },
+                "gsx$rwallstreetbets": {
+                    "$t": "Don't know"
+                },
+                "gsx$rwholesomememes": {
+                    "$t": "1"
+                },
+                "gsx$rmeirl": {
+                    "$t": "1"
+                },
+                "gsx$ridiotsincars": {
+                    "$t": "2"
+                },
+                "gsx$rcozyplaces": {
+                    "$t": "3"
+                },
+                "gsx$roddlysatisfying": {
+                    "$t": "2"
+                },
+                "gsx$rexplainlikeimfive": {
+                    "$t": "3"
+                },
+                "gsx$rdankmemes": {
+                    "$t": "3"
+                },
+                "gsx$rtodayilearned": {
+                    "$t": "3"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/ckd7g"
+                },
+                "updated": {
+                    "$t": "2020-10-19T07:37:10.504Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "17-10-2020 17:51:53"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "rmath: 3, rlearnmath: 1, rprogramming: 3, rlearnprogramming: 1, raww: 3, rnatureisfuckinglit: 3, rearthporn: 2, raskreddit: 2, rlifeprotips: 1, rprogrammerhumor: 2, rtinder: 1, rwallstreetbets: 3, rwholesomememes: 2, rmeirl: Don't know, ridiotsincars: 3, rcozyplaces: 3, roddlysatisfying: 2, rexplainlikeimfive: Don't know, rdankmemes: Don't know, rtodayilearned: Don't know"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/ckd7g"
+                    }
+                ],
+                "gsx$tijdstempel": {
+                    "$t": "17-10-2020 17:51:53"
+                },
+                "gsx$rmath": {
+                    "$t": "3"
+                },
+                "gsx$rlearnmath": {
+                    "$t": "1"
+                },
+                "gsx$rprogramming": {
+                    "$t": "3"
+                },
+                "gsx$rlearnprogramming": {
+                    "$t": "1"
+                },
+                "gsx$raww": {
+                    "$t": "3"
+                },
+                "gsx$rnatureisfuckinglit": {
+                    "$t": "3"
+                },
+                "gsx$rearthporn": {
+                    "$t": "2"
+                },
+                "gsx$raskreddit": {
+                    "$t": "2"
+                },
+                "gsx$rlifeprotips": {
+                    "$t": "1"
+                },
+                "gsx$rprogrammerhumor": {
+                    "$t": "2"
+                },
+                "gsx$rtinder": {
+                    "$t": "1"
+                },
+                "gsx$rwallstreetbets": {
+                    "$t": "3"
+                },
+                "gsx$rwholesomememes": {
+                    "$t": "2"
+                },
+                "gsx$rmeirl": {
+                    "$t": "Don't know"
+                },
+                "gsx$ridiotsincars": {
+                    "$t": "3"
+                },
+                "gsx$rcozyplaces": {
+                    "$t": "3"
+                },
+                "gsx$roddlysatisfying": {
+                    "$t": "2"
+                },
+                "gsx$rexplainlikeimfive": {
+                    "$t": "Don't know"
+                },
+                "gsx$rdankmemes": {
+                    "$t": "Don't know"
+                },
+                "gsx$rtodayilearned": {
+                    "$t": "Don't know"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/clrrx"
+                },
+                "updated": {
+                    "$t": "2020-10-19T07:37:10.504Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "17-10-2020 18:08:21"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "rmath: Don't know, rlearnmath: Don't know, rprogramming: Don't know, rlearnprogramming: Don't know, raww: Don't know, rnatureisfuckinglit: Don't know, rearthporn: 1, raskreddit: 3, rlifeprotips: 3, rprogrammerhumor: 2, rtinder: 2, rwallstreetbets: 1, rwholesomememes: 1, rmeirl: Don't know, ridiotsincars: 1, rcozyplaces: Don't know, roddlysatisfying: 1, rexplainlikeimfive: 1, rdankmemes: 3, rtodayilearned: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/clrrx"
+                    }
+                ],
+                "gsx$tijdstempel": {
+                    "$t": "17-10-2020 18:08:21"
+                },
+                "gsx$rmath": {
+                    "$t": "Don't know"
+                },
+                "gsx$rlearnmath": {
+                    "$t": "Don't know"
+                },
+                "gsx$rprogramming": {
+                    "$t": "Don't know"
+                },
+                "gsx$rlearnprogramming": {
+                    "$t": "Don't know"
+                },
+                "gsx$raww": {
+                    "$t": "Don't know"
+                },
+                "gsx$rnatureisfuckinglit": {
+                    "$t": "Don't know"
+                },
+                "gsx$rearthporn": {
+                    "$t": "1"
+                },
+                "gsx$raskreddit": {
+                    "$t": "3"
+                },
+                "gsx$rlifeprotips": {
+                    "$t": "3"
+                },
+                "gsx$rprogrammerhumor": {
+                    "$t": "2"
+                },
+                "gsx$rtinder": {
+                    "$t": "2"
+                },
+                "gsx$rwallstreetbets": {
+                    "$t": "1"
+                },
+                "gsx$rwholesomememes": {
+                    "$t": "1"
+                },
+                "gsx$rmeirl": {
+                    "$t": "Don't know"
+                },
+                "gsx$ridiotsincars": {
+                    "$t": "1"
+                },
+                "gsx$rcozyplaces": {
+                    "$t": "Don't know"
+                },
+                "gsx$roddlysatisfying": {
+                    "$t": "1"
+                },
+                "gsx$rexplainlikeimfive": {
+                    "$t": "1"
+                },
+                "gsx$rdankmemes": {
+                    "$t": "3"
+                },
+                "gsx$rtodayilearned": {
+                    "$t": "1"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/cyevm"
+                },
+                "updated": {
+                    "$t": "2020-10-19T07:37:10.504Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "17-10-2020 19:55:59"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "rmath: Don't know, rlearnmath: Don't know, rprogramming: 2, rlearnprogramming: Don't know, raww: 2, rnatureisfuckinglit: Don't know, rearthporn: Don't know, raskreddit: 1, rlifeprotips: Don't know, rprogrammerhumor: 2, rtinder: Don't know, rwallstreetbets: Don't know, rwholesomememes: 2, rmeirl: 1, ridiotsincars: Don't know, rcozyplaces: Don't know, roddlysatisfying: Don't know, rexplainlikeimfive: Don't know, rdankmemes: Don't know, rtodayilearned: Don't know"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/cyevm"
+                    }
+                ],
+                "gsx$tijdstempel": {
+                    "$t": "17-10-2020 19:55:59"
+                },
+                "gsx$rmath": {
+                    "$t": "Don't know"
+                },
+                "gsx$rlearnmath": {
+                    "$t": "Don't know"
+                },
+                "gsx$rprogramming": {
+                    "$t": "2"
+                },
+                "gsx$rlearnprogramming": {
+                    "$t": "Don't know"
+                },
+                "gsx$raww": {
+                    "$t": "2"
+                },
+                "gsx$rnatureisfuckinglit": {
+                    "$t": "Don't know"
+                },
+                "gsx$rearthporn": {
+                    "$t": "Don't know"
+                },
+                "gsx$raskreddit": {
+                    "$t": "1"
+                },
+                "gsx$rlifeprotips": {
+                    "$t": "Don't know"
+                },
+                "gsx$rprogrammerhumor": {
+                    "$t": "2"
+                },
+                "gsx$rtinder": {
+                    "$t": "Don't know"
+                },
+                "gsx$rwallstreetbets": {
+                    "$t": "Don't know"
+                },
+                "gsx$rwholesomememes": {
+                    "$t": "2"
+                },
+                "gsx$rmeirl": {
+                    "$t": "1"
+                },
+                "gsx$ridiotsincars": {
+                    "$t": "Don't know"
+                },
+                "gsx$rcozyplaces": {
+                    "$t": "Don't know"
+                },
+                "gsx$roddlysatisfying": {
+                    "$t": "Don't know"
+                },
+                "gsx$rexplainlikeimfive": {
+                    "$t": "Don't know"
+                },
+                "gsx$rdankmemes": {
+                    "$t": "Don't know"
+                },
+                "gsx$rtodayilearned": {
+                    "$t": "Don't know"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/cztg3"
+                },
+                "updated": {
+                    "$t": "2020-10-19T07:37:10.504Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "17-10-2020 21:27:32"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "rmath: 3, rlearnmath: 2, rprogramming: Don't know, rlearnprogramming: Don't know, raww: Don't know, rnatureisfuckinglit: Don't know, rearthporn: Don't know, raskreddit: 2, rlifeprotips: 1, rprogrammerhumor: Don't know, rtinder: 2, rwallstreetbets: Don't know, rwholesomememes: Don't know, rmeirl: Don't know, ridiotsincars: Don't know, rcozyplaces: Don't know, roddlysatisfying: Don't know, rexplainlikeimfive: Don't know, rdankmemes: Don't know, rtodayilearned: 2"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/cztg3"
+                    }
+                ],
+                "gsx$tijdstempel": {
+                    "$t": "17-10-2020 21:27:32"
+                },
+                "gsx$rmath": {
+                    "$t": "3"
+                },
+                "gsx$rlearnmath": {
+                    "$t": "2"
+                },
+                "gsx$rprogramming": {
+                    "$t": "Don't know"
+                },
+                "gsx$rlearnprogramming": {
+                    "$t": "Don't know"
+                },
+                "gsx$raww": {
+                    "$t": "Don't know"
+                },
+                "gsx$rnatureisfuckinglit": {
+                    "$t": "Don't know"
+                },
+                "gsx$rearthporn": {
+                    "$t": "Don't know"
+                },
+                "gsx$raskreddit": {
+                    "$t": "2"
+                },
+                "gsx$rlifeprotips": {
+                    "$t": "1"
+                },
+                "gsx$rprogrammerhumor": {
+                    "$t": "Don't know"
+                },
+                "gsx$rtinder": {
+                    "$t": "2"
+                },
+                "gsx$rwallstreetbets": {
+                    "$t": "Don't know"
+                },
+                "gsx$rwholesomememes": {
+                    "$t": "Don't know"
+                },
+                "gsx$rmeirl": {
+                    "$t": "Don't know"
+                },
+                "gsx$ridiotsincars": {
+                    "$t": "Don't know"
+                },
+                "gsx$rcozyplaces": {
+                    "$t": "Don't know"
+                },
+                "gsx$roddlysatisfying": {
+                    "$t": "Don't know"
+                },
+                "gsx$rexplainlikeimfive": {
+                    "$t": "Don't know"
+                },
+                "gsx$rdankmemes": {
+                    "$t": "Don't know"
+                },
+                "gsx$rtodayilearned": {
+                    "$t": "2"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/d180g"
+                },
+                "updated": {
+                    "$t": "2020-10-19T07:37:10.504Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "17-10-2020 21:39:46"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "rmath: Don't know, rlearnmath: Don't know, rprogramming: 2, rlearnprogramming: 2, raww: 1, rnatureisfuckinglit: 2, rearthporn: 1, raskreddit: 1, rlifeprotips: 3, rprogrammerhumor: 2, rtinder: 3, rwallstreetbets: 2, rwholesomememes: 3, rmeirl: 2, ridiotsincars: 2, rcozyplaces: 1, roddlysatisfying: 3, rexplainlikeimfive: Don't know, rdankmemes: 3, rtodayilearned: Don't know"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/d180g"
+                    }
+                ],
+                "gsx$tijdstempel": {
+                    "$t": "17-10-2020 21:39:46"
+                },
+                "gsx$rmath": {
+                    "$t": "Don't know"
+                },
+                "gsx$rlearnmath": {
+                    "$t": "Don't know"
+                },
+                "gsx$rprogramming": {
+                    "$t": "2"
+                },
+                "gsx$rlearnprogramming": {
+                    "$t": "2"
+                },
+                "gsx$raww": {
+                    "$t": "1"
+                },
+                "gsx$rnatureisfuckinglit": {
+                    "$t": "2"
+                },
+                "gsx$rearthporn": {
+                    "$t": "1"
+                },
+                "gsx$raskreddit": {
+                    "$t": "1"
+                },
+                "gsx$rlifeprotips": {
+                    "$t": "3"
+                },
+                "gsx$rprogrammerhumor": {
+                    "$t": "2"
+                },
+                "gsx$rtinder": {
+                    "$t": "3"
+                },
+                "gsx$rwallstreetbets": {
+                    "$t": "2"
+                },
+                "gsx$rwholesomememes": {
+                    "$t": "3"
+                },
+                "gsx$rmeirl": {
+                    "$t": "2"
+                },
+                "gsx$ridiotsincars": {
+                    "$t": "2"
+                },
+                "gsx$rcozyplaces": {
+                    "$t": "1"
+                },
+                "gsx$roddlysatisfying": {
+                    "$t": "3"
+                },
+                "gsx$rexplainlikeimfive": {
+                    "$t": "Don't know"
+                },
+                "gsx$rdankmemes": {
+                    "$t": "3"
+                },
+                "gsx$rtodayilearned": {
+                    "$t": "Don't know"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/d2mkx"
+                },
+                "updated": {
+                    "$t": "2020-10-19T07:37:10.504Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "18-10-2020 12:47:46"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "rmath: 1, rlearnmath: 1, rprogramming: 3, rlearnprogramming: 3, raww: 2, rnatureisfuckinglit: 3, rearthporn: 3, raskreddit: 3, rlifeprotips: 2, rprogrammerhumor: 2, rtinder: 3, rwallstreetbets: 2, rwholesomememes: 2, rmeirl: 2, ridiotsincars: 3, rcozyplaces: 1, roddlysatisfying: 3, rexplainlikeimfive: 2, rdankmemes: 3, rtodayilearned: 2"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/d2mkx"
+                    }
+                ],
+                "gsx$tijdstempel": {
+                    "$t": "18-10-2020 12:47:46"
+                },
+                "gsx$rmath": {
+                    "$t": "1"
+                },
+                "gsx$rlearnmath": {
+                    "$t": "1"
+                },
+                "gsx$rprogramming": {
+                    "$t": "3"
+                },
+                "gsx$rlearnprogramming": {
+                    "$t": "3"
+                },
+                "gsx$raww": {
+                    "$t": "2"
+                },
+                "gsx$rnatureisfuckinglit": {
+                    "$t": "3"
+                },
+                "gsx$rearthporn": {
+                    "$t": "3"
+                },
+                "gsx$raskreddit": {
+                    "$t": "3"
+                },
+                "gsx$rlifeprotips": {
+                    "$t": "2"
+                },
+                "gsx$rprogrammerhumor": {
+                    "$t": "2"
+                },
+                "gsx$rtinder": {
+                    "$t": "3"
+                },
+                "gsx$rwallstreetbets": {
+                    "$t": "2"
+                },
+                "gsx$rwholesomememes": {
+                    "$t": "2"
+                },
+                "gsx$rmeirl": {
+                    "$t": "2"
+                },
+                "gsx$ridiotsincars": {
+                    "$t": "3"
+                },
+                "gsx$rcozyplaces": {
+                    "$t": "1"
+                },
+                "gsx$roddlysatisfying": {
+                    "$t": "3"
+                },
+                "gsx$rexplainlikeimfive": {
+                    "$t": "2"
+                },
+                "gsx$rdankmemes": {
+                    "$t": "3"
+                },
+                "gsx$rtodayilearned": {
+                    "$t": "2"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/cssly"
+                },
+                "updated": {
+                    "$t": "2020-10-19T07:37:10.504Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "18-10-2020 18:09:02"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "rmath: 2, rlearnmath: 3, rprogramming: Don't know, rlearnprogramming: Don't know, raww: 1, rnatureisfuckinglit: 1, rearthporn: Don't know, raskreddit: 2, rlifeprotips: 1, rprogrammerhumor: Don't know, rtinder: Don't know, rwallstreetbets: 1, rwholesomememes: Don't know, rmeirl: 1, ridiotsincars: Don't know, rcozyplaces: 2, roddlysatisfying: 3, rexplainlikeimfive: Don't know, rdankmemes: Don't know, rtodayilearned: 2"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/cssly"
+                    }
+                ],
+                "gsx$tijdstempel": {
+                    "$t": "18-10-2020 18:09:02"
+                },
+                "gsx$rmath": {
+                    "$t": "2"
+                },
+                "gsx$rlearnmath": {
+                    "$t": "3"
+                },
+                "gsx$rprogramming": {
+                    "$t": "Don't know"
+                },
+                "gsx$rlearnprogramming": {
+                    "$t": "Don't know"
+                },
+                "gsx$raww": {
+                    "$t": "1"
+                },
+                "gsx$rnatureisfuckinglit": {
+                    "$t": "1"
+                },
+                "gsx$rearthporn": {
+                    "$t": "Don't know"
+                },
+                "gsx$raskreddit": {
+                    "$t": "2"
+                },
+                "gsx$rlifeprotips": {
+                    "$t": "1"
+                },
+                "gsx$rprogrammerhumor": {
+                    "$t": "Don't know"
+                },
+                "gsx$rtinder": {
+                    "$t": "Don't know"
+                },
+                "gsx$rwallstreetbets": {
+                    "$t": "1"
+                },
+                "gsx$rwholesomememes": {
+                    "$t": "Don't know"
+                },
+                "gsx$rmeirl": {
+                    "$t": "1"
+                },
+                "gsx$ridiotsincars": {
+                    "$t": "Don't know"
+                },
+                "gsx$rcozyplaces": {
+                    "$t": "2"
+                },
+                "gsx$roddlysatisfying": {
+                    "$t": "3"
+                },
+                "gsx$rexplainlikeimfive": {
+                    "$t": "Don't know"
+                },
+                "gsx$rdankmemes": {
+                    "$t": "Don't know"
+                },
+                "gsx$rtodayilearned": {
+                    "$t": "2"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/cu76f"
+                },
+                "updated": {
+                    "$t": "2020-10-19T07:37:10.504Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "19-10-2020 8:47:22"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "rmath: 1, rlearnmath: Don't know, rprogramming: 2, rlearnprogramming: Don't know, raww: 1, rnatureisfuckinglit: 2, rearthporn: 3, raskreddit: Don't know, rlifeprotips: Don't know, rprogrammerhumor: 2, rtinder: 1, rwallstreetbets: 3, rwholesomememes: 1, rmeirl: 2, ridiotsincars: 3, rcozyplaces: Don't know, roddlysatisfying: Don't know, rexplainlikeimfive: 2, rdankmemes: 1, rtodayilearned: 3"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/cu76f"
+                    }
+                ],
+                "gsx$tijdstempel": {
+                    "$t": "19-10-2020 8:47:22"
+                },
+                "gsx$rmath": {
+                    "$t": "1"
+                },
+                "gsx$rlearnmath": {
+                    "$t": "Don't know"
+                },
+                "gsx$rprogramming": {
+                    "$t": "2"
+                },
+                "gsx$rlearnprogramming": {
+                    "$t": "Don't know"
+                },
+                "gsx$raww": {
+                    "$t": "1"
+                },
+                "gsx$rnatureisfuckinglit": {
+                    "$t": "2"
+                },
+                "gsx$rearthporn": {
+                    "$t": "3"
+                },
+                "gsx$raskreddit": {
+                    "$t": "Don't know"
+                },
+                "gsx$rlifeprotips": {
+                    "$t": "Don't know"
+                },
+                "gsx$rprogrammerhumor": {
+                    "$t": "2"
+                },
+                "gsx$rtinder": {
+                    "$t": "1"
+                },
+                "gsx$rwallstreetbets": {
+                    "$t": "3"
+                },
+                "gsx$rwholesomememes": {
+                    "$t": "1"
+                },
+                "gsx$rmeirl": {
+                    "$t": "2"
+                },
+                "gsx$ridiotsincars": {
+                    "$t": "3"
+                },
+                "gsx$rcozyplaces": {
+                    "$t": "Don't know"
+                },
+                "gsx$roddlysatisfying": {
+                    "$t": "Don't know"
+                },
+                "gsx$rexplainlikeimfive": {
+                    "$t": "2"
+                },
+                "gsx$rdankmemes": {
+                    "$t": "1"
+                },
+                "gsx$rtodayilearned": {
+                    "$t": "3"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/cvlqs"
+                },
+                "updated": {
+                    "$t": "2020-10-19T07:37:10.504Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "19-10-2020 8:52:25"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "rmath: Don't know, rlearnmath: 2, rprogramming: 2, rlearnprogramming: Don't know, raww: Don't know, rnatureisfuckinglit: 3, rearthporn: 1, raskreddit: 2, rlifeprotips: Don't know, rprogrammerhumor: Don't know, rtinder: 1, rwallstreetbets: Don't know, rwholesomememes: 3, rmeirl: 1, ridiotsincars: Don't know, rcozyplaces: 2, roddlysatisfying: 3, rexplainlikeimfive: 1, rdankmemes: 1, rtodayilearned: 3"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/cvlqs"
+                    }
+                ],
+                "gsx$tijdstempel": {
+                    "$t": "19-10-2020 8:52:25"
+                },
+                "gsx$rmath": {
+                    "$t": "Don't know"
+                },
+                "gsx$rlearnmath": {
+                    "$t": "2"
+                },
+                "gsx$rprogramming": {
+                    "$t": "2"
+                },
+                "gsx$rlearnprogramming": {
+                    "$t": "Don't know"
+                },
+                "gsx$raww": {
+                    "$t": "Don't know"
+                },
+                "gsx$rnatureisfuckinglit": {
+                    "$t": "3"
+                },
+                "gsx$rearthporn": {
+                    "$t": "1"
+                },
+                "gsx$raskreddit": {
+                    "$t": "2"
+                },
+                "gsx$rlifeprotips": {
+                    "$t": "Don't know"
+                },
+                "gsx$rprogrammerhumor": {
+                    "$t": "Don't know"
+                },
+                "gsx$rtinder": {
+                    "$t": "1"
+                },
+                "gsx$rwallstreetbets": {
+                    "$t": "Don't know"
+                },
+                "gsx$rwholesomememes": {
+                    "$t": "3"
+                },
+                "gsx$rmeirl": {
+                    "$t": "1"
+                },
+                "gsx$ridiotsincars": {
+                    "$t": "Don't know"
+                },
+                "gsx$rcozyplaces": {
+                    "$t": "2"
+                },
+                "gsx$roddlysatisfying": {
+                    "$t": "3"
+                },
+                "gsx$rexplainlikeimfive": {
+                    "$t": "1"
+                },
+                "gsx$rdankmemes": {
+                    "$t": "1"
+                },
+                "gsx$rtodayilearned": {
+                    "$t": "3"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/cx0b9"
+                },
+                "updated": {
+                    "$t": "2020-10-19T07:37:10.504Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "19-10-2020 8:54:21"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "rmath: 3, rlearnmath: 2, rprogramming: 3, rlearnprogramming: 2, raww: Don't know, rnatureisfuckinglit: Don't know, rearthporn: Don't know, raskreddit: 3, rlifeprotips: 1, rprogrammerhumor: 3, rtinder: 2, rwallstreetbets: 3, rwholesomememes: Don't know, rmeirl: 1, ridiotsincars: 3, rcozyplaces: Don't know, roddlysatisfying: Don't know, rexplainlikeimfive: Don't know, rdankmemes: 2, rtodayilearned: 3"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/cx0b9"
+                    }
+                ],
+                "gsx$tijdstempel": {
+                    "$t": "19-10-2020 8:54:21"
+                },
+                "gsx$rmath": {
+                    "$t": "3"
+                },
+                "gsx$rlearnmath": {
+                    "$t": "2"
+                },
+                "gsx$rprogramming": {
+                    "$t": "3"
+                },
+                "gsx$rlearnprogramming": {
+                    "$t": "2"
+                },
+                "gsx$raww": {
+                    "$t": "Don't know"
+                },
+                "gsx$rnatureisfuckinglit": {
+                    "$t": "Don't know"
+                },
+                "gsx$rearthporn": {
+                    "$t": "Don't know"
+                },
+                "gsx$raskreddit": {
+                    "$t": "3"
+                },
+                "gsx$rlifeprotips": {
+                    "$t": "1"
+                },
+                "gsx$rprogrammerhumor": {
+                    "$t": "3"
+                },
+                "gsx$rtinder": {
+                    "$t": "2"
+                },
+                "gsx$rwallstreetbets": {
+                    "$t": "3"
+                },
+                "gsx$rwholesomememes": {
+                    "$t": "Don't know"
+                },
+                "gsx$rmeirl": {
+                    "$t": "1"
+                },
+                "gsx$ridiotsincars": {
+                    "$t": "3"
+                },
+                "gsx$rcozyplaces": {
+                    "$t": "Don't know"
+                },
+                "gsx$roddlysatisfying": {
+                    "$t": "Don't know"
+                },
+                "gsx$rexplainlikeimfive": {
+                    "$t": "Don't know"
+                },
+                "gsx$rdankmemes": {
+                    "$t": "2"
+                },
+                "gsx$rtodayilearned": {
+                    "$t": "3"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/d9ney"
+                },
+                "updated": {
+                    "$t": "2020-10-19T07:37:10.504Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "19-10-2020 8:57:40"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "rmath: Don't know, rlearnmath: Don't know, rprogramming: 2, rlearnprogramming: Don't know, raww: Don't know, rnatureisfuckinglit: Don't know, rearthporn: 2, raskreddit: 2, rlifeprotips: Don't know, rprogrammerhumor: 2, rtinder: 1, rwallstreetbets: 3, rwholesomememes: 3, rmeirl: Don't know, ridiotsincars: 2, rcozyplaces: Don't know, roddlysatisfying: 3, rexplainlikeimfive: 1, rdankmemes: 3, rtodayilearned: Don't know"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/d9ney"
+                    }
+                ],
+                "gsx$tijdstempel": {
+                    "$t": "19-10-2020 8:57:40"
+                },
+                "gsx$rmath": {
+                    "$t": "Don't know"
+                },
+                "gsx$rlearnmath": {
+                    "$t": "Don't know"
+                },
+                "gsx$rprogramming": {
+                    "$t": "2"
+                },
+                "gsx$rlearnprogramming": {
+                    "$t": "Don't know"
+                },
+                "gsx$raww": {
+                    "$t": "Don't know"
+                },
+                "gsx$rnatureisfuckinglit": {
+                    "$t": "Don't know"
+                },
+                "gsx$rearthporn": {
+                    "$t": "2"
+                },
+                "gsx$raskreddit": {
+                    "$t": "2"
+                },
+                "gsx$rlifeprotips": {
+                    "$t": "Don't know"
+                },
+                "gsx$rprogrammerhumor": {
+                    "$t": "2"
+                },
+                "gsx$rtinder": {
+                    "$t": "1"
+                },
+                "gsx$rwallstreetbets": {
+                    "$t": "3"
+                },
+                "gsx$rwholesomememes": {
+                    "$t": "3"
+                },
+                "gsx$rmeirl": {
+                    "$t": "Don't know"
+                },
+                "gsx$ridiotsincars": {
+                    "$t": "2"
+                },
+                "gsx$rcozyplaces": {
+                    "$t": "Don't know"
+                },
+                "gsx$roddlysatisfying": {
+                    "$t": "3"
+                },
+                "gsx$rexplainlikeimfive": {
+                    "$t": "1"
+                },
+                "gsx$rdankmemes": {
+                    "$t": "3"
+                },
+                "gsx$rtodayilearned": {
+                    "$t": "Don't know"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/db1zf"
+                },
+                "updated": {
+                    "$t": "2020-10-19T07:37:10.504Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "19-10-2020 9:08:47"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "rmath: Don't know, rlearnmath: Don't know, rprogramming: Don't know, rlearnprogramming: Don't know, raww: 3, rnatureisfuckinglit: 3, rearthporn: 3, raskreddit: 2, rlifeprotips: Don't know, rprogrammerhumor: Don't know, rtinder: 2, rwallstreetbets: Don't know, rwholesomememes: 2, rmeirl: 1, ridiotsincars: Don't know, rcozyplaces: 3, roddlysatisfying: 3, rexplainlikeimfive: Don't know, rdankmemes: Don't know, rtodayilearned: 3"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/db1zf"
+                    }
+                ],
+                "gsx$tijdstempel": {
+                    "$t": "19-10-2020 9:08:47"
+                },
+                "gsx$rmath": {
+                    "$t": "Don't know"
+                },
+                "gsx$rlearnmath": {
+                    "$t": "Don't know"
+                },
+                "gsx$rprogramming": {
+                    "$t": "Don't know"
+                },
+                "gsx$rlearnprogramming": {
+                    "$t": "Don't know"
+                },
+                "gsx$raww": {
+                    "$t": "3"
+                },
+                "gsx$rnatureisfuckinglit": {
+                    "$t": "3"
+                },
+                "gsx$rearthporn": {
+                    "$t": "3"
+                },
+                "gsx$raskreddit": {
+                    "$t": "2"
+                },
+                "gsx$rlifeprotips": {
+                    "$t": "Don't know"
+                },
+                "gsx$rprogrammerhumor": {
+                    "$t": "Don't know"
+                },
+                "gsx$rtinder": {
+                    "$t": "2"
+                },
+                "gsx$rwallstreetbets": {
+                    "$t": "Don't know"
+                },
+                "gsx$rwholesomememes": {
+                    "$t": "2"
+                },
+                "gsx$rmeirl": {
+                    "$t": "1"
+                },
+                "gsx$ridiotsincars": {
+                    "$t": "Don't know"
+                },
+                "gsx$rcozyplaces": {
+                    "$t": "3"
+                },
+                "gsx$roddlysatisfying": {
+                    "$t": "3"
+                },
+                "gsx$rexplainlikeimfive": {
+                    "$t": "Don't know"
+                },
+                "gsx$rdankmemes": {
+                    "$t": "Don't know"
+                },
+                "gsx$rtodayilearned": {
+                    "$t": "3"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/dcgjs"
+                },
+                "updated": {
+                    "$t": "2020-10-19T07:37:10.504Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "19-10-2020 9:14:09"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "rmath: 3, rlearnmath: 3, rprogramming: Don't know, rlearnprogramming: Don't know, raww: 3, rnatureisfuckinglit: Don't know, rearthporn: Don't know, raskreddit: 3, rlifeprotips: 2, rprogrammerhumor: Don't know, rtinder: Don't know, rwallstreetbets: Don't know, rwholesomememes: Don't know, rmeirl: 1, ridiotsincars: Don't know, rcozyplaces: Don't know, roddlysatisfying: Don't know, rexplainlikeimfive: Don't know, rdankmemes: 3, rtodayilearned: 3"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/dcgjs"
+                    }
+                ],
+                "gsx$tijdstempel": {
+                    "$t": "19-10-2020 9:14:09"
+                },
+                "gsx$rmath": {
+                    "$t": "3"
+                },
+                "gsx$rlearnmath": {
+                    "$t": "3"
+                },
+                "gsx$rprogramming": {
+                    "$t": "Don't know"
+                },
+                "gsx$rlearnprogramming": {
+                    "$t": "Don't know"
+                },
+                "gsx$raww": {
+                    "$t": "3"
+                },
+                "gsx$rnatureisfuckinglit": {
+                    "$t": "Don't know"
+                },
+                "gsx$rearthporn": {
+                    "$t": "Don't know"
+                },
+                "gsx$raskreddit": {
+                    "$t": "3"
+                },
+                "gsx$rlifeprotips": {
+                    "$t": "2"
+                },
+                "gsx$rprogrammerhumor": {
+                    "$t": "Don't know"
+                },
+                "gsx$rtinder": {
+                    "$t": "Don't know"
+                },
+                "gsx$rwallstreetbets": {
+                    "$t": "Don't know"
+                },
+                "gsx$rwholesomememes": {
+                    "$t": "Don't know"
+                },
+                "gsx$rmeirl": {
+                    "$t": "1"
+                },
+                "gsx$ridiotsincars": {
+                    "$t": "Don't know"
+                },
+                "gsx$rcozyplaces": {
+                    "$t": "Don't know"
+                },
+                "gsx$roddlysatisfying": {
+                    "$t": "Don't know"
+                },
+                "gsx$rexplainlikeimfive": {
+                    "$t": "Don't know"
+                },
+                "gsx$rdankmemes": {
+                    "$t": "3"
+                },
+                "gsx$rtodayilearned": {
+                    "$t": "3"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/ddv49"
+                },
+                "updated": {
+                    "$t": "2020-10-19T07:37:10.504Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "19-10-2020 9:16:11"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "rmath: 2, rlearnmath: 3, rprogramming: 1, rlearnprogramming: 3, raww: 2, rnatureisfuckinglit: 1, rearthporn: 2, raskreddit: 3, rlifeprotips: Don't know, rprogrammerhumor: 3, rtinder: 2, rwallstreetbets: 1, rwholesomememes: Don't know, rmeirl: 3, ridiotsincars: 1, rcozyplaces: 2, roddlysatisfying: 2, rexplainlikeimfive: 2, rdankmemes: 2, rtodayilearned: 2"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/ddv49"
+                    }
+                ],
+                "gsx$tijdstempel": {
+                    "$t": "19-10-2020 9:16:11"
+                },
+                "gsx$rmath": {
+                    "$t": "2"
+                },
+                "gsx$rlearnmath": {
+                    "$t": "3"
+                },
+                "gsx$rprogramming": {
+                    "$t": "1"
+                },
+                "gsx$rlearnprogramming": {
+                    "$t": "3"
+                },
+                "gsx$raww": {
+                    "$t": "2"
+                },
+                "gsx$rnatureisfuckinglit": {
+                    "$t": "1"
+                },
+                "gsx$rearthporn": {
+                    "$t": "2"
+                },
+                "gsx$raskreddit": {
+                    "$t": "3"
+                },
+                "gsx$rlifeprotips": {
+                    "$t": "Don't know"
+                },
+                "gsx$rprogrammerhumor": {
+                    "$t": "3"
+                },
+                "gsx$rtinder": {
+                    "$t": "2"
+                },
+                "gsx$rwallstreetbets": {
+                    "$t": "1"
+                },
+                "gsx$rwholesomememes": {
+                    "$t": "Don't know"
+                },
+                "gsx$rmeirl": {
+                    "$t": "3"
+                },
+                "gsx$ridiotsincars": {
+                    "$t": "1"
+                },
+                "gsx$rcozyplaces": {
+                    "$t": "2"
+                },
+                "gsx$roddlysatisfying": {
+                    "$t": "2"
+                },
+                "gsx$rexplainlikeimfive": {
+                    "$t": "2"
+                },
+                "gsx$rdankmemes": {
+                    "$t": "2"
+                },
+                "gsx$rtodayilearned": {
+                    "$t": "2"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/d415a"
+                },
+                "updated": {
+                    "$t": "2020-10-19T07:37:10.504Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "19-10-2020 9:26:58"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "rmath: Don't know, rlearnmath: Don't know, rprogramming: 3, rlearnprogramming: 3, raww: 3, rnatureisfuckinglit: 3, rearthporn: 2, raskreddit: Don't know, rlifeprotips: Don't know, rprogrammerhumor: 3, rtinder: Don't know, rwallstreetbets: Don't know, rwholesomememes: 2, rmeirl: 1, ridiotsincars: 3, rcozyplaces: 3, roddlysatisfying: 3, rexplainlikeimfive: 2, rdankmemes: 1, rtodayilearned: 3"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1Vant4K0bzRTfhExNGbd0ITiUD-W9S4U-OtPNrs431vo/ovca1gb/public/values/d415a"
+                    }
+                ],
+                "gsx$tijdstempel": {
+                    "$t": "19-10-2020 9:26:58"
+                },
+                "gsx$rmath": {
+                    "$t": "Don't know"
+                },
+                "gsx$rlearnmath": {
+                    "$t": "Don't know"
+                },
+                "gsx$rprogramming": {
+                    "$t": "3"
+                },
+                "gsx$rlearnprogramming": {
+                    "$t": "3"
+                },
+                "gsx$raww": {
+                    "$t": "3"
+                },
+                "gsx$rnatureisfuckinglit": {
+                    "$t": "3"
+                },
+                "gsx$rearthporn": {
+                    "$t": "2"
+                },
+                "gsx$raskreddit": {
+                    "$t": "Don't know"
+                },
+                "gsx$rlifeprotips": {
+                    "$t": "Don't know"
+                },
+                "gsx$rprogrammerhumor": {
+                    "$t": "3"
+                },
+                "gsx$rtinder": {
+                    "$t": "Don't know"
+                },
+                "gsx$rwallstreetbets": {
+                    "$t": "Don't know"
+                },
+                "gsx$rwholesomememes": {
+                    "$t": "2"
+                },
+                "gsx$rmeirl": {
+                    "$t": "1"
+                },
+                "gsx$ridiotsincars": {
+                    "$t": "3"
+                },
+                "gsx$rcozyplaces": {
+                    "$t": "3"
+                },
+                "gsx$roddlysatisfying": {
+                    "$t": "3"
+                },
+                "gsx$rexplainlikeimfive": {
+                    "$t": "2"
+                },
+                "gsx$rdankmemes": {
+                    "$t": "1"
+                },
+                "gsx$rtodayilearned": {
+                    "$t": "3"
+                }
+            }
+        ]
+    }
+}
